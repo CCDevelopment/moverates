@@ -1,0 +1,14 @@
+
+/* Admin Menu Custom Icons */
+#adminmenu #menu-posts-service_cities div.wp-menu-image::before {
+    content: "\f512";
+}
+#adminmenu #menu-posts-services div.wp-menu-image::before {
+    content: "\f180";
+}
+#adminmenu #menu-posts-team_member div.wp-menu-image::before {
+    content: "\f338";
+}
+#adminmenu #menu-posts-saved_rates div.wp-menu-image::before {
+    content: "\f487";
+}
